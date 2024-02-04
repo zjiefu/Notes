@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gait cycle.md",
+                "file": "Note take.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bfeb2c0c4a8ead7b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gait cycle.md",
+                "file": "Note take.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gait cycle.md",
+                "file": "Note take.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gait cycle.md"
+                "file": "Note take.md"
               }
             }
           }
@@ -146,8 +147,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbfaf0330dfd93cc",
+  "active": "a3bd345aa039e1bb",
   "lastOpenFiles": [
-    "Gait cycle.md"
+    "Note take.md"
   ]
 }
