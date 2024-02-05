@@ -1,0 +1,1 @@
+## Title: Older adults employ alternative strategies to operate within their maximum capabilities when ascending stairs
