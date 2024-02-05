@@ -3,8 +3,9 @@
 2. "Irreducible" ideas
 3. Connect the idea to other knowledges
 
-## Fleeting Notes 
+## Fleeting Notes (document level)
 Something you thought of when reading
-
 Two parts: the source (highlight point) and the context 
-Want to reference back
+
+## Permanent Notes (higher level)
+
