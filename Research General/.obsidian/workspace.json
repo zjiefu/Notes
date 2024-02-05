@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9466d50b4921a5aa",
+        "id": "aed0acd98e766a86",
         "type": "tabs",
         "children": [
           {
-            "id": "cbfaf0330dfd93cc",
+            "id": "fc41628f72efba9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note taking.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note taking.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note taking.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note taking.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3bd345aa039e1bb",
+  "active": "fc41628f72efba9d",
   "lastOpenFiles": [
+    "Untitled.md",
     "Note taking.md"
   ]
 }
