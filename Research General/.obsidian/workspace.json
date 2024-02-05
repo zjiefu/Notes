@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note take.md",
+                "file": "Note taking.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bfeb2c0c4a8ead7b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note take.md",
+                "file": "Note taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note take.md",
+                "file": "Note taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note take.md"
+                "file": "Note taking.md"
               }
             }
           }
@@ -149,6 +148,6 @@
   },
   "active": "a3bd345aa039e1bb",
   "lastOpenFiles": [
-    "Note take.md"
+    "Note taking.md"
   ]
 }

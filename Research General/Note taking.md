@@ -10,4 +10,3 @@ Two parts: the source (highlight point) and the context
 ## Permanent Notes (higher level)
 - A wrap up of what learned from the paper, like take away points?
 - Link new idea to the knowledge base
-- 
