@@ -5,9 +5,3 @@ Older people may operate much closer to their maximum capabilities than young ad
 
 
 ### Key takeaways
-1. Elderly people maintain lower knee peak joint moment comparing with young people. Although they operate at a higher proportion of their knee joint moment limits, they still maintain a reserve for safety considerations.
-2. Although the GRF are similar in elderly and young group, elderly people shift the CoP, which leads to a reduced ankle moment (due to reduced moment arm).
-3. Elderly people generate a secondary knee joint moment peak just before the ankle joint moment peak, since they use the gastrocnemius muscle to decelerate the knee angular velocity and transfer energy down to the ankle to enhance ankle plantarflexion moment.
-4. Elderly delay the knee extension potentially for two purposes:
-	1. Help to generate a higher knee joint moment which can be translocated down to the ankle.
-	2. Keep the ankle in dorsiflexion for longer, which allow the plantarflexsor act over a more favorable portion of the moment-angle relation.

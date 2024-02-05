@@ -2,7 +2,7 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "Reading notes",
-  "literatureNoteContentTemplate": "---\nTitle: {{title}}\nAuthors: {{authorString}}\nYear: {{year}}\n---\n### Abstract: {{abstract}}\n\n",
+  "literatureNoteContentTemplate": "---\nTitle: {{title}}\nAuthors: {{authorString}}\nYear: {{year}}\n---\n***\n### Abstract: \n{{abstract}}\n***\n### Key takeaways:\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "C:\\Users\\zjiefu\\Dropbox (University of Michigan)\\Notes\\My Library.bib"
