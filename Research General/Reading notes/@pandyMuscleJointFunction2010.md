@@ -10,4 +10,7 @@ This review describes how computational modeling can be combined with noninvasiv
 ### Key takeaways:
 1. Two major functions leg muscles (hip extensors) in the sagittal plane during stance: 
 	1. Generate support by opposing the downward pull of gravity (gravity compensation)
-	2. Generate progression by accelerating the body
+	2. Generate progression by accelerating the body forward (energy injection)
+2. Peak force developed by the hip extensors increase as walking speed increases, which indicates the hip controller should have some velocity sensitive components.
+
+[[New hip controller]]
