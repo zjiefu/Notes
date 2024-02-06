@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Information for Human Subject Studies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6cdffbb5412f883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "New hip controller.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,11 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6cdffbb5412f883",
+  "active": "3d38a6f4bd4e788a",
   "lastOpenFiles": [
-    "Useful Information for Human Subject Studies.md",
     "Reading notes/@pandyMuscleJointFunction2010.md",
     "New hip controller.md",
+    "Attachments/Pasted image 20240206164832.png",
+    "Attachments/Pasted image 20240206164818.png",
+    "Attachments/Pasted image 20240206164805.png",
+    "Attachments/Pasted image 20240206164750.png",
+    "Attachments/Pasted image 20240206164732.png",
+    "Attachments/Pasted image 20240206164714.png",
+    "Attachments/Pasted image 20240206164653.png",
+    "Attachments/Pasted image 20240206164621.png",
+    "Useful Information for Human Subject Studies.md",
+    "Pasted image 20240206164516.png",
+    "Attachments",
     "Random Notes (Should be cleaned regularly).md",
     "Note taking.md",
     "Reading notes/@reevesOlderAdultsEmploy2009.md",
