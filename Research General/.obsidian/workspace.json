@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notes/@pandyMuscleJointFunction2010.md",
+                "file": "Useful Information for Human Subject Studies.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@pandyMuscleJointFunction2010.md",
+                "file": "New hip controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notes/@pandyMuscleJointFunction2010.md",
+                "file": "New hip controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notes/@pandyMuscleJointFunction2010.md"
+                "file": "New hip controller.md"
               }
             }
           }
@@ -171,14 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d38a6f4bd4e788a",
+  "active": "d6cdffbb5412f883",
   "lastOpenFiles": [
-    "New hip controller.md",
+    "Useful Information for Human Subject Studies.md",
     "Reading notes/@pandyMuscleJointFunction2010.md",
+    "New hip controller.md",
     "Random Notes (Should be cleaned regularly).md",
     "Note taking.md",
     "Reading notes/@reevesOlderAdultsEmploy2009.md",
-    "Useful Information for Human Subject Studies.md",
     "Reeves2009.md",
     "Reading notes/@alibejiMuscleSynergyInspiredControl2018.md",
     "Reading notes/@morcelliHipMusclesStrength2014.md",
