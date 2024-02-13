@@ -27,7 +27,7 @@ Exoskeletons can improve elderly people's mobility performance and slow down the
 ##### Experiment design:
 1. **Baseline:** test the baseline of walking speed (fast);
 2. **Test:** subjects walk on the circuit in both bare/active exoskeleton conditions until they are slower than their baseline speed (15% threshold) for three consecutive laps, which is called a failure.
-3. **Muscle test (optional):** Do 30CST
+3. ~~**Muscle test (optional):** Do 30CST~~
 ##### Primary outcome:
 **Lap finished** before they slow down. Can also check the result of 30CST.
 ##### How this design address the issues we have:
