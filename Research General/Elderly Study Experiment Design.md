@@ -16,13 +16,19 @@ Exoskeletons can improve elderly people's mobility when they are fatigued
 1. **Baseline:** test the baseline of walking speed (fast);
 2. **Pre-fatigue:** in both bare/passive exoskeleton conditions, walk on the circuit at the baseline speed until they reach a certain RPE level;
 3. **Test:** Turn on the exoskeleton (for bare nothing to do), walk on the circuit for three laps and test their time/speed
-##### Issue:
+##### Primary outcome:
+Time to finish the three laps in test part.
+##### Issues:
 This experiment design aims to test if the exoskeleton is helpful when subjects are fatigued. However, what we want to test (at least initial hypothesis) is that the exoskeleton can improve their performance (or mobility, or slow down their fatigue), which means it should assist at the very beginning.
 
 #### Backup Plan B
 ##### Hypothesis to test:
 Exoskeletons can improve elderly people's mobility performance and slow down the rate of fatigue
-
 ##### Experiment design:
 1. **Baseline:** test the baseline of walking speed (fast);
-2. **Test:** subjects walk on the circuit in both bare/active exoskeleton conditions until they are slower than 
+2. **Test:** subjects walk on the circuit in both bare/active exoskeleton conditions until they are slower than their baseline speed (10% threshold) for three consecutive laps.
+3. **Muscle test (optional):** Do 30CST
+##### Primary outcome:
+Lap finished before they slow down. Can also check the result of 30CST.
+##### How this design address the issues we have:
+1. **Same amount of effort:** subjects always walk at their baseline speed. Although may not be the same, it still a fair comparison? (This is based on the assumption that they can always finish the same number of laps)
