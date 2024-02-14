@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "116c8a5135888ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "410c7910efeabe2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New hip controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3d38a6f4bd4e788a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
+                "file": "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New hip controller.md",
+                "file": "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New hip controller.md",
+                "file": "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New hip controller.md"
+                "file": "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md"
               }
             }
           }
@@ -171,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "410c7910efeabe2a",
+  "active": "3d38a6f4bd4e788a",
   "lastOpenFiles": [
-    "Elderly Study Experiment Design.md",
     "Random Notes (Should be cleaned regularly).md",
-    "Useful Information for Human Subject Studies.md",
+    "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
     "New hip controller.md",
+    "Elderly Study Experiment Design.md",
+    "Useful Information for Human Subject Studies.md",
     "Note taking.md",
     "Reading notes/@pandyMuscleJointFunction2010.md",
     "Attachments/Pasted image 20240206164832.png",
