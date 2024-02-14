@@ -19,4 +19,5 @@
 	- ![[Pasted image 20240206164832.png]]
 
 ### Two major things to do
-1. Need to link the controller 
+1. Need to link the controller design to the biomechanics of human gait
+2. Need to dive into energy shaping theories to fit the controller design to the theory frame
