@@ -17,3 +17,6 @@
 	- ![[Pasted image 20240206164805.png]]
 	- ![[Pasted image 20240206164818.png]]
 	- ![[Pasted image 20240206164832.png]]
+
+### Two major things to do
+1. Need to link the controller 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elderly Study Experiment Design.md",
+                "file": "New hip controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elderly Study Experiment Design.md",
+                "file": "New hip controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elderly Study Experiment Design.md",
+                "file": "New hip controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elderly Study Experiment Design.md"
+                "file": "New hip controller.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "410c7910efeabe2a",
   "lastOpenFiles": [
+    "Elderly Study Experiment Design.md",
     "Random Notes (Should be cleaned regularly).md",
     "Useful Information for Human Subject Studies.md",
-    "Elderly Study Experiment Design.md",
     "New hip controller.md",
     "Note taking.md",
     "Reading notes/@pandyMuscleJointFunction2010.md",
