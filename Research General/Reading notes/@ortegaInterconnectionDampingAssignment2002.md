@@ -13,4 +13,6 @@ Passivity-based control (PBC) is a well-established technique that has shown to 
 ***
 ### Trying to understand to paper
 1. For IDA-PBC design, what we do is
-	1. Fix the desired structure of the interco
+	1. Fix the desired structure of the interconnection and damping matrices. (Not sure which part this corresponds to in our paper)
+	2. Derive a PDE parameterized by the chosen matrices whose solutions characterize all the energy functions that can be assigned. (This should be solving for matching condition)
+	3. From the set of admissible choose one that satisfies the minimum requirement and compute the control. (Or I'd say finding the optimal energy function, like what we did in our paper)
