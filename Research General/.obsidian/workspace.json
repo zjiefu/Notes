@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
+                "file": "Useful Information for Human Subject Studies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
+                "file": "Useful Information for Human Subject Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
+                "file": "Useful Information for Human Subject Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md"
+                "file": "Useful Information for Human Subject Studies.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "3d38a6f4bd4e788a",
   "lastOpenFiles": [
-    "Random Notes (Should be cleaned regularly).md",
     "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
+    "Random Notes (Should be cleaned regularly).md",
     "New hip controller.md",
     "Elderly Study Experiment Design.md",
     "Useful Information for Human Subject Studies.md",
