@@ -21,3 +21,12 @@
 ### Two major things to do
 1. Need to link the controller design to the biomechanics of human gait
 2. Need to dive into energy shaping theories to fit the controller design to the theory frame
+
+### Components of the controller
+1. Need to have a gravity compensation components
+	1. During stance, this should be for the body
+	2. During swing, this should be for the leg, although I doubt if it is that important for able-bodied. Definitely useful for those who with weak hip flexor.
+2. Need to have some sort of nonlinear spring. This is because hip extensor/flexor need to do both positive/negative work during a gait cycle
+3. Need to have some velocity sensitive components. This is because the torque at hip changes with different velocities.
+4. Need to incorporate GRF into the whole frame. Can use the sigmoid function style, but can also explore other ideas.
+5. I am not sure about this part, but maybe have some kind of switching for ascending tasks.
