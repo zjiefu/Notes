@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notes/@ortegaPuttingEnergyBack2001.md",
+                "file": "Reading notes/@ortegaInterconnectionDampingAssignment2002.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@ortegaPuttingEnergyBack2001.md",
+                "file": "Reading notes/@ortegaInterconnectionDampingAssignment2002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notes/@ortegaPuttingEnergyBack2001.md",
+                "file": "Reading notes/@ortegaInterconnectionDampingAssignment2002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notes/@ortegaPuttingEnergyBack2001.md"
+                "file": "Reading notes/@ortegaInterconnectionDampingAssignment2002.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "3d38a6f4bd4e788a",
   "lastOpenFiles": [
-    "New hip controller.md",
     "Reading notes/@ortegaPuttingEnergyBack2001.md",
+    "Reading notes/@ortegaInterconnectionDampingAssignment2002.md",
+    "New hip controller.md",
     "Useful Information for Human Subject Studies.md",
     "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
     "Random Notes (Should be cleaned regularly).md",
