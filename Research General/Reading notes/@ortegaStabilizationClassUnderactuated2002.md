@@ -12,4 +12,4 @@ In this paper, we consider the application of a new formulation of passivity-bas
 
 ***
 ### Reading Notes:
-1. 2C energy shaping: "While the first row of the aforementioned equations is clearly satisfied" $\nabla_p H = M^{-1}M_d $ 
+1. 2C energy shaping: "While the first row of the aforementioned equations is clearly satisfied" $\nabla_p H = M^{-1}M_d \nabla_p H_d = M^{-1} M_d M_d^{-1} p = M^{-1}p = \nabla_p H$  
