@@ -30,3 +30,10 @@
 3. Need to have some velocity sensitive components. This is because the torque at hip changes with different velocities.
 4. Need to incorporate GRF into the whole frame. Can use the sigmoid function style, but can also explore other ideas.
 5. I am not sure about this part, but maybe have some kind of switching for ascending tasks.
+
+### Some random thoughts
+1. The kinematics differences between different tasks:
+	1. First call LG as the "baseline kinematics"
+	2. For RA, should have larger flexion, but almost the same (or similar) extension
+	3. For SA, should have larger flexion, but smaller extension (due to restricted by the stairs)
+	But what really matters here should be the lift of knee position (or center of mass). Currently, we have larger hip torque for SA since I guess the lift of CoM is larger for SA (still need to double check).
