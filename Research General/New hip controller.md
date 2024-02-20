@@ -17,7 +17,7 @@
 	- ![[Pasted image 20240206164805.png]]
 	- ![[Pasted image 20240206164818.png]]
 	- ![[Pasted image 20240206164832.png]]
-
+![[Pasted image 20240220153915.jpg]]
 ### Two major things to do
 1. Need to link the controller design to the biomechanics of human gait
 2. Need to dive into energy shaping theories to fit the controller design to the theory frame
@@ -37,3 +37,5 @@
 	2. For RA, should have larger flexion, but almost the same (or similar) extension
 	3. For SA, should have larger flexion, but smaller extension (due to restricted by the stairs)
 	But what really matters here should be the lift of knee position (or center of mass). Currently, we have larger hip torque for SA since I guess the lift of CoM is larger for SA (still need to double check).
+	
+2. Something important to note: the hip extension torque only lasts until ~40% gait cycle (i.e., the hip joint angle ~ 0 deg). This can be explained by noting that any joint angle less than 0 deg will need hip flexor to balance the gravity.
