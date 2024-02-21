@@ -33,3 +33,10 @@ Exoskeletons can improve elderly people's mobility performance and slow down the
 ##### How this design address the issues we have:
 1. **Same amount of effort:** subjects always walk at their baseline speed. Although may not be the same, it still a fair comparison? (This is based on the assumption that they can always finish the same number of laps, which is not validated)
 2. **Different people may have different fitness level:** since it is not a fixed-time/distance experiment, it is purely based on subjects performance, i.e., when they slow down to a certain point.
+
+
+***
+
+### Some thoughts after parsing data
+1. The lap time is highly variable for exoskeleton condition, but seems faster at the very end.
+2. How should we interpret the baseline speed? We want to use the baseline speed for normalization to eliminate the day-to-day variance and maybe learning effect. However, with the exoskeleton seems like the subject walks slower. Count in total that's a lot (~ 20 sec)
