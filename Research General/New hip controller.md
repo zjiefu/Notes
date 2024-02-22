@@ -39,3 +39,9 @@
 	But what really matters here should be the lift of knee position (or center of mass). Currently, we have larger hip torque for SA since I guess the lift of CoM is larger for SA (still need to double check).
 	
 2. Something important to note: the hip extension torque only lasts until ~40% gait cycle (i.e., the hip joint angle ~ 0 deg). This can be explained by noting that any joint angle less than 0 deg will need hip flexor to balance the gravity.
+
+### Preliminary hip extension controller (0 - 40% gaitcycle)
+$\tau_{ext} = \tau_{gc} + \tau_{sp} + \tau_{ic}$
+where
+$\tau_{gc} = g \sin(\theta_{th})$
+
