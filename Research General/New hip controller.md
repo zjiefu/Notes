@@ -43,5 +43,6 @@
 ### Preliminary hip extension controller (0 - 40% gaitcycle)
 $\tau_{ext} = \tau_{gc} + \tau_{sp} + \tau_{ic}$
 where
-$\tau_{gc} = g \sin(\theta_{th})$
-
+$\tau_{gc} = g \cdot \sin(\theta_{th})$
+$\tau_{sp} = k(\theta)\cdot \sigma(H_{asc}) \cdot \sigma(GRF)$ 
+$\tau_{ic} = k \cdot \sigma(\dot \theta)$ 
