@@ -47,3 +47,8 @@ Exoskeletons can improve elderly people's mobility performance and slow down the
 So need to think about how to use the measured baseline for result correction. Currently we directly substract baseline from the result. However, this seem doesn't work (?)
 - In baseline condition they only need to walk for two laps, which means they may walk faster comparing with a longer task.
 - If they walk faster in baseline condition, they may fatigue faster, which leads to a slower speed in the test? (really?)
+
+***
+### Study instructions
+- "We don't want you to speed up if you are excited about being close to the end of the session."
+- 
