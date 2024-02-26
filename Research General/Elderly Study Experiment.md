@@ -36,8 +36,14 @@ Exoskeletons can improve elderly people's mobility performance and slow down the
 
 
 ***
-
 ### Some thoughts after parsing data
 1. The lap time is highly variable for exoskeleton condition, but seems faster at the very end.
 2. How should we interpret the baseline speed? We want to use the baseline speed for normalization to eliminate the day-to-day variance and maybe learning effect. However, with the exoskeleton seems like the subject walks slower. Count in total that's a lot (~ 20 sec), however, if we divide everything by lap this will only be <2 sec per lap.
 3. Considering 2, it is possible for subjects to walk at ~ the same level of speed as the bare condition, which means backup plan B can be a good option.
+
+***
+### Thinking about how to use the baseline
+
+So need to think about how to use the measured baseline for result correction. Currently we directly substract baseline from the result. However, this seem doesn't work (?)
+- In baseline condition they only need to walk for two laps, which means they may walk faster comparing with a longer task.
+- If they walk faster in baseline condition, they may fatigue faster, which leads to a slower speed in the test? (really?)
