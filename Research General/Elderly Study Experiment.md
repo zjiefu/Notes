@@ -51,4 +51,10 @@ So need to think about how to use the measured baseline for result correction. C
 ***
 ### Study instructions
 - "We don't want you to speed up if you are excited about being close to the end of the session."
-- 
+
+***
+### Performance & endurance
+So our hypothesis is that with the exoskeleton the subjects' rate of fatigue will be less (i.e., they will fatigue slower). We are trying to figure out how to evaluate the level of fatigue. 
+- **Speed**: this is based on the assumption that subjects will walk slower when they are fatigued;
+	- We are trying to figure out how to find the baseline 
+- **Perceived exertion**: this is RPE, which can better reflects how subjects feels. However, it is too subjective; 
