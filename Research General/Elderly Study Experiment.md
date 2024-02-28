@@ -62,4 +62,6 @@ So our hypothesis is that with the exoskeleton the subjects' rate of fatigue wil
 ***
 ### Some thoughts after the study
 So EL04 had to stop and rest multiple times in the bare mode. When rests, the lap time will be much longer, but after resting she will be faster.
-So how should we set up the stop criteria? They can stop and rest, or they can slow down 
+So how should we set up the stop criteria? They can stop and rest, or they can slow down so they don't need to rest.
+
+We can see that during baseline condition she walked pretty fast (which is the same for the first two laps of 15CR) However, she slowed down really quickly.
