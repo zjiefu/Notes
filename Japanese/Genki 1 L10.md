@@ -29,4 +29,13 @@
 	- noun：会社員　→ 　会社員**になる**
 - なる conjugate as a る-verb
 
-### どこかに　
+### どこかに・どこにも
+- 何か__   **something**
+- 何__も   **not** **anything**
+- 誰か__   **someone**
+- 誰__も   **not anyone**
+- どこか__   **somewhere**
+- どこ__も   **not anywhere**
+
+### Noun + で + verb
+with, by, utilization 
