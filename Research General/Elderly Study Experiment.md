@@ -58,3 +58,8 @@ So our hypothesis is that with the exoskeleton the subjects' rate of fatigue wil
 - **Speed**: this is based on the assumption that subjects will walk slower when they are fatigued;
 	- We are trying to figure out how to find the baseline 
 - **Perceived exertion**: this is RPE, which can better reflects how subjects feels. However, it is too subjective; 
+
+***
+### Some thoughts after the study
+So EL04 had to stop and rest multiple times in the bare mode. When rests, the lap time will be much longer, but after resting she will be faster.
+So how should we set up the stop criteria? They can stop and rest, or they can slow down 
