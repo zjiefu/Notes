@@ -59,6 +59,9 @@ We can see that during baseline condition she walked pretty fast (which is the s
 ***
 ### Random thoughts after discussion and reading papers
 1. It takes a long time to train subjects using exoskeletons. For now what we have is still not enough, should have more training (e.g., at least 10 mins continuously walking on the circuit with the exoskeleton powered on)
+	1. However, need to make sure that the exoskeleton can work well for ~10 mins.
 2. No protocol will be perfect, plan B sounds good, but may still have some issues. If we got some good results from the current protocol, better just stick to it. There is always some way to make a good story for it.
-3. Will need to think about how to use the baseline time wisely.
-4. Need to think about what the protocol should be. Total time seems plausible but feel like it is not good enough. Maybe we can evaluate the rest time? But what if some subjects do not rest (like EL03)
+3. Will need to think about how to use the baseline time wisely. Simply substract it from the total time seems not good (not leading to good results and not totally make sense).
+4. Need to think about what the primary outcome should be. Total time seems plausible but feel like it is not good enough. Maybe we can evaluate the rest time? But what if some subjects do not rest (like EL03?)
+5. There is still many ways to explore the data we have. Just keep doing it and see what the result will be like. There will always be something to talk about.
+6. Really need to think about if there is anyway to add some extra harness system to the hip exoskeleton.
