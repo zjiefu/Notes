@@ -49,8 +49,16 @@ So our hypothesis is that with the exoskeleton the subjects' rate of fatigue wil
 - **Perceived exertion**: this is RPE, which can better reflects how subjects feels. However, it is too subjective; 
 
 ***
-### Some thoughts after the study
+### Some thoughts after the study 
 So EL04 had to stop and rest multiple times in the bare mode. When rests, the lap time will be much longer, but after resting she will be faster.
 So how should we set up the stop criteria? They can stop and rest, or they can slow down so they don't need to rest.
 
 We can see that during baseline condition she walked pretty fast (which is the same for the first two laps of 15CR) However, she slowed down really quickly.
+
+
+***
+### Random thoughts after discussion and reading papers
+1. It takes a long time to train subjects using exoskeletons. For now what we have is still not enough, should have more training (e.g., at least 10 mins continuously walking on the circuit with the exoskeleton powered on)
+2. No protocol will be perfect, plan B sounds good, but may still have some issues. If we got some good results from the current protocol, better just stick to it. There is always some way to make a good story for it.
+3. Will need to think about how to use the baseline time wisely.
+4. Need to think about what the protocol should be. Total time seems plausible but feel like it is not good enough. Maybe we can evaluate the rest time? But what if some subjects do not rest (like EL03)
