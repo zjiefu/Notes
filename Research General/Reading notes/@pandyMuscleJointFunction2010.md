@@ -13,4 +13,4 @@ This review describes how computational modeling can be combined with noninvasiv
 	2. Generate progression by accelerating the body forward (energy injection)
 2. Peak force developed by the hip extensors increase as walking speed increases, which indicates the hip controller should have some velocity sensitive components.
 
-[[New hip controller]]
+[[New hip controller biomechanics]]
