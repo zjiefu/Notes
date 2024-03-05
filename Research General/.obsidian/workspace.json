@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New hip controller overview.md",
+                "file": "New hip controller biomechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New hip controller overview.md",
+                "file": "New hip controller biomechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New hip controller overview.md",
+                "file": "New hip controller biomechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New hip controller overview.md"
+                "file": "New hip controller biomechanics.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "aff8119978796463",
   "lastOpenFiles": [
-    "New hip controller biomechanics.md",
     "New hip controller overview.md",
+    "New hip controller biomechanics.md",
     "New hip controller mathematics.md",
     "Reading notes/@ortegaStabilizationClassUnderactuated2002.md",
     "Note taking.md",

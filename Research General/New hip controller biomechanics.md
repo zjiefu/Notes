@@ -44,5 +44,5 @@
 $\tau_{ext} = \tau_{gc} + \tau_{sp} + \tau_{ic}$
 where
 $\tau_{gc} = g \cdot \sin(\theta_{th})$
-$\tau_{sp} = k(\theta)\cdot \sigma(H_{asc}) \cdot \sigma(GRF)$ 
-$\tau_{ic} = k \cdot \sigma(\dot \theta)$ 
+$\tau_{sp} = k(\theta)\cdot \sigma(H_{asc}) \cdot \sigma(GRF)$  the so-called nonlinear ascend spring
+$\tau_{ic} = k \cdot \sigma(\dot \theta)$  this is where the $J_2$ terms comes into work. Still not sure how th
