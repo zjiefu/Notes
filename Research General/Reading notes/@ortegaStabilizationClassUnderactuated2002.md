@@ -14,3 +14,6 @@ In this paper, we consider the application of a new formulation of passivity-bas
 ### Reading Notes:
 1. 2C energy shaping: "While the first row of the aforementioned equations is clearly satisfied" $\nabla_p H = M^{-1}M_d \nabla_p H_d = M^{-1} M_d M_d^{-1} p = M^{-1}p = \nabla_p H$  
 2. In our paper, our control law is $u_{es} = (G^TG)^{-1}G^T [\nabla_q V - \nabla_q V_d + J_2(q)M^{-1}p] = (G^TG)^{-1}G^T [\nabla_q V - \nabla_q V_d + J_2(q)\dot{q}]$  So basically we just designed the $J_2(q)$ matrix in the form of all our sinusoidal basis. That's why we directly multiply them by $\dot{q}$.
+3. Some thoughts:
+	- In our design we optimize the control output (torque) to fit the normative torque, which means we are trying to design $u$, which is the derivative of desired energy function.
+	- The two examples shown here focused on choosing equilibrium point -> design target system dynamics -> solving matching conditions -> choosing the appropriate target system such that the equilibrium is satisfied.
