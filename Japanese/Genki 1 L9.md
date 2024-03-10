@@ -21,7 +21,14 @@
 | 眼鏡をかけている　人 | verb in short form (L9) |
 
 ## Describing things happened in the past
-- Use the affirmative past tense of a verb ~mashita 
-	1. to talk about an event happened at a certain time in the past (did in English)
-		e.g. 
-	2. to tal
+- Use the affirmative past tense of a verb ~ました 
+	1. to talk about an event happened at a certain time in the past (*did* in English)
+		e.g. 昨日宿題をしました
+	2. to talk about a past event that still has an effect (*have done* in English), with adverbs like もう (already)
+		e.g. もう宿題をしました
+- With negative, the past is only used to talk about a finished time period (like *didn't* in English)
+- For haven't done, use 〜ている, with adverb まだ
+	- e.g. まだ宿題をしていません
+
+## Explanation から (*so* in English)
+- Explanation から、 situation
