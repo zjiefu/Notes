@@ -27,7 +27,7 @@
 	2. to talk about a past event that still has an effect (*have done* in English), with adverbs like もう (already)
 		e.g. もう宿題をしました
 - With negative, the past is only used to talk about a finished time period (like *didn't* in English)
-- For haven't done, use 〜ている, with adverb まだ
+- For haven't done, use 〜ていません, with adverb まだ
 	- e.g. まだ宿題をしていません
 
 ## Explanation から (*so* in English)
