@@ -12,7 +12,6 @@
 - eg.:　ヤスミンさんは、昼ご飯を食べなかったと言っていました
 - Note: if present tense is used in somebody's utterance, you should also use present tense. There is no "sequence of tense" rule
 - eg.: ヤスミン：今、晩ご飯を食べています。→ ヤスミンさんは晩ご飯を**食べている**といていました
-
 ## Verb+ている: qualifying nouns with verbs
 | 面白い　人 | i-adj |
 | ---- | ---- |
