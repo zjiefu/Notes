@@ -7,7 +7,7 @@ I won't expect much bracing during RD and SD since the controller is not designe
 They will need to fully stand up and fully sit down for this task. At least in the last session the subject didn't use a correct posture.
 
 #### For interview
-The subject mentioned that if he stands up too fast, he has to wait for a minute to recover (?) from it. Not sure if this applies to everyone but seems EL03 also had this issue.
+The subject mentioned that if he stands up too fast, he has to wait for a minute to recover (?) from it. Not sure if this applies to everyone but seems EL03 also had this issue. 
 
 #### Backup Plan A
 ##### Hypothesis to test:
