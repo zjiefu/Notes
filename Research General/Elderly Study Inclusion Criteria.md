@@ -4,3 +4,5 @@
 - Some sources also state that sarcopenia could be related to change in muscle composition and quality. (i.e., not solely muscle mass)
 
 - Can include walking speed as some metric, e.g., how long they need to cover some distance. Won't be really accurate but still helps.
+
+>Those with sarcopenia were older and had smaller bodysize compared with those without sarcopenia in each sex (all P<0.001). Those with sarcopenia were physi-cally less active in each sex
