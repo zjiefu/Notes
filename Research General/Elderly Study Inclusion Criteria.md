@@ -16,3 +16,5 @@
 
 ## SARC-F questionnaire
 https://pubmed.ncbi.nlm.nih.gov/23810110/
+![[Pasted image 20240313151603.png]]
+
