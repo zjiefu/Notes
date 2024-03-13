@@ -5,4 +5,6 @@
 
 - Can include walking speed as some metric, e.g., how long they need to cover some distance. Won't be really accurate but still helps.
 
->Those with sarcopenia were older and had smaller bodysize compared with those without sarcopenia in each sex (all P<0.001). Those with sarcopenia were physi-cally less active in each sex
+> Those with sarcopenia were older and had smaller body size compared with those without sarcopenia in each sex (all P<0.001). Those with sarcopenia were physically less active in each sex
+
+- Calf size reduction? (calf circumference)
