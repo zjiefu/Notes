@@ -7,9 +7,12 @@
 
 > Those with sarcopenia were older and had smaller body size compared with those without sarcopenia in each sex (all P<0.001). Those with sarcopenia were physically less active in each sex
 
-- Calf size reduction? (calf circumference)
+- Calf size reduction? (calf circumference) [https://doi.org/10.1046/j.1532-5415.2003.51362.x]()
 
 ## Possible questions
 1. Have you experienced involuntary weight loss in the last 12 months? (or since 65 yo?)
 2. Have you noticed that your calf becomes small in the last 12 months? (or since 65 yo?)
 3. How easy it is for you to open the caps of bottled water? (1 to 10)
+
+## SARC-F questionnaire
+https://pubmed.ncbi.nlm.nih.gov/23810110/
