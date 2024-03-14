@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a4bafdc7ce811519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Information for Human Subject Studies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Information for Human Subject Studies.md",
+                "file": "Elderly Study Backup Plan B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Information for Human Subject Studies.md",
+                "file": "Elderly Study Backup Plan B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Information for Human Subject Studies.md"
+                "file": "Elderly Study Backup Plan B.md"
               }
             }
           }
@@ -195,14 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4bafdc7ce811519",
+  "active": "2ac4507630673ad2",
   "lastOpenFiles": [
+    "Human subject study EMG.md",
     "Random Notes (Should be cleaned regularly).md",
     "Everything about elderly study.md",
     "Elderly Study Inclusion Criteria.md",
     "Elderly Study Backup Plan B.md",
     "Attachments/Pasted image 20240313151603.png",
-    "Useful Information for Human Subject Studies.md",
     "Dataset processing.md",
     "Untitled",
     "New hip controller overview.md",
