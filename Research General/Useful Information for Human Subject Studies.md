@@ -5,8 +5,8 @@
 ## All about EMG
 Check The ABC of EMG manual in Dropbox - Useful Manual
 
-## EMG stuff
-### A sequence for reference:
+## EMG Collection Checklist
+
 1. Determine the muscles of interest;
 2. Find the sensor position and orientation: [SENIAM](http://www.seniam.org/) ; or just visual inspection/feel
 3. Do the skin preparation:
@@ -20,7 +20,7 @@ Check The ABC of EMG manual in Dropbox - Useful Manual
 9. Configure the sensors in the program:
 	1. Drag the sensor to the muscle;
 	2. Experiment workflow: Plot and Store
-		1. **Task specific - Rum time: set to a longer period**
+		1. **Task specific - Rum time: set to a longer period (15 min)**
 		2. Task specific: check the sensors, in options, select EMG and ACC channel, check RMS overlap;
 		3. General - Tigger inputs: check the "wait for a start trigger on: Trigno Wireless System (start trigger)", and the "Stop on trigger from: Trigno Wireless System (stop trigger)", if want to do external trigger;
 10. Start collection;
