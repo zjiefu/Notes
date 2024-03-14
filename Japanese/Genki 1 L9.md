@@ -31,3 +31,4 @@
 
 ## Explanation から (*so* in English)
 - Explanation から、 situation
+- Both long and short form, short form is more common, and long form is more polite and commonly seen in suggestions.
