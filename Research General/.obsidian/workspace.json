@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0e57d844548f2d63",
+        "id": "6b0306dde35fced1",
         "type": "tabs",
         "children": [
           {
-            "id": "3d38a6f4bd4e788a",
+            "id": "a020499dbaba630c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New hip controller biomechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61237f8efad306aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New hip controller biomechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff8119978796463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ac4507630673ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elderly Study Backup Plan B.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4bafdc7ce811519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
+                "file": "Human subject study EMG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
+                "file": "Human subject study EMG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
+                "file": "Human subject study EMG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Notes (Should be cleaned regularly).md"
+                "file": "Human subject study EMG.md"
               }
             }
           }
@@ -195,20 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4bafdc7ce811519",
+  "active": "a3bd345aa039e1bb",
   "lastOpenFiles": [
-    "Useful Information for Human Subject Studies.md",
-    "Human subject study EMG.md",
-    "Random Notes (Should be cleaned regularly).md",
-    "Everything about elderly study.md",
-    "Elderly Study Inclusion Criteria.md",
-    "Elderly Study Backup Plan B.md",
-    "Attachments/Pasted image 20240313151603.png",
     "Dataset processing.md",
-    "Untitled",
-    "New hip controller overview.md",
-    "Note taking.md",
+    "Everything about elderly study.md",
+    "Elderly Study Backup Plan B.md",
+    "Random Notes (Should be cleaned regularly).md",
     "New hip controller biomechanics.md",
+    "New hip controller overview.md",
+    "Elderly Study Inclusion Criteria.md",
+    "Human subject study EMG.md",
+    "Note taking.md",
+    "Useful Information for Human Subject Studies.md",
+    "Attachments/Pasted image 20240313151603.png",
+    "Untitled",
     "New hip controller mathematics.md",
     "Reading notes/@ortegaStabilizationClassUnderactuated2002.md",
     "Reading notes/@pandyMuscleJointFunction2010.md",
