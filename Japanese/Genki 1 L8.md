@@ -49,5 +49,9 @@
 - questions: 何か
 - negative statements: 何も + negative
 
-## osoi/osoku
-
+## 遅い/遅く
+- 遅い is an adjective, which modifies nouns or works as a predicate
+	- 遅い朝ご飯を食べました
+- 遅く is an adverb, which modifies verbs
+	- 昨日、遅く寝ました
+- The same for 早い/早く
