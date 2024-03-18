@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human subject study EMG.md",
+                "file": "Dataset processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c156cc57ea49ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All-hands meeting presentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human subject study EMG.md",
+                "file": "All-hands meeting presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human subject study EMG.md",
+                "file": "All-hands meeting presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human subject study EMG.md"
+                "file": "All-hands meeting presentation.md"
               }
             }
           }
@@ -146,16 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3bd345aa039e1bb",
+  "active": "7c156cc57ea49ca5",
   "lastOpenFiles": [
     "Dataset processing.md",
-    "Everything about elderly study.md",
+    "All-hands meeting presentation.md",
     "Elderly Study Backup Plan B.md",
+    "Elderly Study Inclusion Criteria.md",
+    "Everything about elderly study.md",
+    "Human subject study EMG.md",
     "Random Notes (Should be cleaned regularly).md",
     "New hip controller biomechanics.md",
     "New hip controller overview.md",
-    "Elderly Study Inclusion Criteria.md",
-    "Human subject study EMG.md",
     "Note taking.md",
     "Useful Information for Human Subject Studies.md",
     "Attachments/Pasted image 20240313151603.png",
