@@ -30,7 +30,6 @@
 ## 〜ないでください
 - verb (short form negative) + でください
 - Often a better answer than てはいけません to a てもいいですか question (Not in a position of authority)
-
 ## Nominalizing sentences
 - Verb short form + の turns a verb into a noun describing an action
 - Describing a person's ability: person は activity (verb) のが
