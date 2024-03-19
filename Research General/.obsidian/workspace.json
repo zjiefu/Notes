@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataset processing.md",
+                "file": "New hip controller biomechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataset processing.md",
+                "file": "New hip controller biomechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataset processing.md",
+                "file": "New hip controller biomechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataset processing.md"
+                "file": "New hip controller biomechanics.md"
               }
             }
           }
@@ -161,20 +161,20 @@
   },
   "active": "7c156cc57ea49ca5",
   "lastOpenFiles": [
-    "All-hands meeting presentation.md",
+    "New hip controller mathematics.md",
+    "New hip controller overview.md",
     "Dataset processing.md",
+    "All-hands meeting presentation.md",
     "Elderly Study Backup Plan B.md",
     "Elderly Study Inclusion Criteria.md",
     "Everything about elderly study.md",
     "Human subject study EMG.md",
     "Random Notes (Should be cleaned regularly).md",
     "New hip controller biomechanics.md",
-    "New hip controller overview.md",
     "Note taking.md",
     "Useful Information for Human Subject Studies.md",
     "Attachments/Pasted image 20240313151603.png",
     "Untitled",
-    "New hip controller mathematics.md",
     "Reading notes/@ortegaStabilizationClassUnderactuated2002.md",
     "Reading notes/@pandyMuscleJointFunction2010.md",
     "Reading notes/@ortegaPuttingEnergyBack2001.md",

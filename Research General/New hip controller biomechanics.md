@@ -46,3 +46,7 @@ where
 $\tau_{gc} = g \cdot \sin(\theta_{th})$
 $\tau_{sp} = k(\theta)\cdot \sigma(H_{asc}) \cdot \sigma(GRF)$  the so-called nonlinear ascend spring (but should still work with level ground, as an offset)
 $\tau_{ic} = k \cdot \sigma(\dot \theta)$  this is where the $J_2$ terms comes into work. Still not sure how should this part works. Also, have to be symmetric.
+
+
+### Something from paper
+- The hip moment is largely affected by the trunk position when ascending stairs. Not sure if there is anyway that we also consider this in our controller?
