@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fa81c1206d75aeb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c156cc57ea49ca5",
+  "active": "2fa81c1206d75aeb",
   "lastOpenFiles": [
     "New hip controller mathematics.md",
     "New hip controller overview.md",
