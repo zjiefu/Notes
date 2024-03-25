@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7f4973061fb3aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genki L7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genki 1 L8.md",
+                "file": "Genki L7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genki 1 L8.md",
+                "file": "Genki L7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genki 1 L8.md"
+                "file": "Genki L7.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ef6f4cf82887564",
+  "active": "f7f4973061fb3aa1",
   "lastOpenFiles": [
-    "Genki 1 L9.md",
     "Genki 1 L8.md",
+    "Genki L7.md",
+    "Genki 1 L9.md",
     "Genki 1 L10.md",
     "Welcome.md"
   ]
