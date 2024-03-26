@@ -34,3 +34,19 @@ Adjective and noun て-forms can be used to combine two elements to form longer 
 **e.g.:** 
 1. あの店の食べ物は安くて、おいしです。
 2. 山下先生は日本人で、五十歳ぐらいです。
+
+
+## Verb Stem + に行く
+
+Destination of movement + に/へ + the purpose of movement (verb stem) に + 行く/来る/帰る
+
+**Note:** verb stem: long form remove the end ます
+
+## 遊ぶ
+
+Asobu means "to play", "to speed time pleasantly", or "to pay a social call"
+
+"To play" below requires different words
+- Sports: ~をする
+- Games: ~をする
+- Music instruments: ~を弾く

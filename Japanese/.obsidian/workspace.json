@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genki L7.md",
+                "file": "Genki 1 L7.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genki L7.md",
+                "file": "Genki 1 L7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genki L7.md",
+                "file": "Genki 1 L7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genki L7.md"
+                "file": "Genki 1 L7.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "f7f4973061fb3aa1",
   "lastOpenFiles": [
     "Genki 1 L8.md",
-    "Genki L7.md",
+    "Genki 1 L7.md",
     "Genki 1 L9.md",
     "Genki 1 L10.md",
     "Welcome.md"
