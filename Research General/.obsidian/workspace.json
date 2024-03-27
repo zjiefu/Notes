@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomechanics-inspired Controller/Dataset processing.md",
+                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomechanics-inspired Controller/Dataset processing.md",
+                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomechanics-inspired Controller/Dataset processing.md",
+                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biomechanics-inspired Controller/Dataset processing.md"
+                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "a020499dbaba630c",
   "lastOpenFiles": [
-    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Biomechanics-inspired Controller/Dataset processing.md",
+    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Using OpenSim.md",
     "Random Notes (Should be cleaned regularly).md",
     "Note taking.md",
