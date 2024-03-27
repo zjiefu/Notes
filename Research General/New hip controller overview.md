@@ -7,3 +7,6 @@ The scope of new hip exoskeleton controller: find a way to incorporate biomechan
 	- Hopefully extend/refine the requirement of basis functions selection, especially the "integrable". **For this section check the integrable NN papers**
 	- Need to think about how to incorporate the "memory" part, i.e., the information of last step
 	- Better evaluate the effect of power leak, and potential effects on the system behavior? (Something done by others)
+
+
+### Some new thoughts
