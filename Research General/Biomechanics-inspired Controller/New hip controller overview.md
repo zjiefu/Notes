@@ -10,3 +10,5 @@ The scope of new hip exoskeleton controller: find a way to incorporate biomechan
 
 
 ### Some new thoughts
+
+Read a paper on HRI with energy shaping, and it used energy surface idea. Not sure if this is also applicable to our controller. Want to find a simple way to parameterize this energy surface.
