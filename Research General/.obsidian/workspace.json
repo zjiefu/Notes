@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
+                "file": "Random Notes (Should be cleaned regularly).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using OpenSim.md",
+                "file": "Random Notes (Should be cleaned regularly).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
+                "file": "Random Notes (Should be cleaned regularly).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
+                "file": "Random Notes (Should be cleaned regularly).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md"
+                "file": "Random Notes (Should be cleaned regularly).md"
               }
             }
           }
@@ -170,20 +171,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a020499dbaba630c",
+  "active": "a3bd345aa039e1bb",
   "lastOpenFiles": [
-    "Biomechanics-inspired Controller/Dataset processing.md",
-    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Using OpenSim.md",
     "Random Notes (Should be cleaned regularly).md",
     "Note taking.md",
     "Human subject study EMG.md",
+    "Biomechanics-inspired Controller/New hip controller biomechanics.md",
+    "Biomechanics-inspired Controller/Dataset processing.md",
+    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Meeting notes/All-hands meeting presentation.md",
     "Meeting notes",
     "Elderly Study/Elderly Study Backup Plan B.md",
     "Elderly Study",
     "Biomechanics-inspired Controller",
-    "Biomechanics-inspired Controller/New hip controller biomechanics.md",
     "Biomechanics-inspired Controller/New hip controller mathematics.md",
     "Elderly Study/Elderly Study Inclusion Criteria.md",
     "Elderly Study/Everything about elderly study.md",
