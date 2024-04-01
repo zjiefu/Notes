@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
+                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
+                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Notes (Should be cleaned regularly).md",
+                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Notes (Should be cleaned regularly).md"
+                "file": "Biomechanics-inspired Controller/New hip controller biomechanics.md"
               }
             }
           }
@@ -171,14 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3bd345aa039e1bb",
+  "active": "c5fc8d4f400176d7",
   "lastOpenFiles": [
-    "Using OpenSim.md",
+    "Biomechanics-inspired Controller/Dataset processing.md",
     "Random Notes (Should be cleaned regularly).md",
+    "Using OpenSim.md",
     "Note taking.md",
     "Human subject study EMG.md",
     "Biomechanics-inspired Controller/New hip controller biomechanics.md",
-    "Biomechanics-inspired Controller/Dataset processing.md",
     "Biomechanics-inspired Controller/New hip controller overview.md",
     "Meeting notes/All-hands meeting presentation.md",
     "Meeting notes",
