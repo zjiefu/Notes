@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller overview.md",
+                "file": "Biomechanics-inspired Controller/Dataset processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller overview.md",
+                "file": "Biomechanics-inspired Controller/Dataset processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller overview.md",
+                "file": "Biomechanics-inspired Controller/Dataset processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller overview.md"
+                "file": "Biomechanics-inspired Controller/Dataset processing.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "7c156cc57ea49ca5",
   "lastOpenFiles": [
+    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Reading notes/@neumann2010.md",
     "Attachments/Pasted image 20240402134157.png",
     "Attachments/Pasted image 20240402134117.png",
@@ -174,7 +175,6 @@
     "Using OpenSim.md",
     "Note taking.md",
     "Human subject study EMG.md",
-    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Meeting notes/All-hands meeting presentation.md",
     "Meeting notes",
     "Elderly Study/Elderly Study Backup Plan B.md",
