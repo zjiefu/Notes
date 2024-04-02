@@ -8,4 +8,6 @@
 - Level5: each side is a 150 x n x 10 array, dim1- gait percentage, dim2 - number of tasks, dim3 - number of subject.
 
 ### Current stage
-Finished parsing the data for all tasks except STS. Need to do sanity check. Also need to normalize the GRF data of LG, RA, RD
+Finished parsing the data for all tasks except STS. Need to do sanity check. 
+- Also need to normalize the GRF data of LG, RA, RD
+- The LG, RA, RD joint angle data seems a little off. Maybe should also use the phase shift one
