@@ -6,7 +6,7 @@
 - Using knee joint center is also impossible, since KJC is also affected by the ankle angle.
 - This conclusion should be straight forward since during level walking the thigh/hip angles are also not the same, and we only have thigh/hip information!
 
-- To conclude, this makes using GRF less meaningful, which is good since we want to get rid of GRF (also not passive)
+- To conclude, this makes using GRF less meaningless, which is good since we want to get rid of GRF (also not passive)
 
 ### Why I want to find a new controller design
 
