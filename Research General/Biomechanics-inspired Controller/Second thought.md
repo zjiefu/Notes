@@ -4,6 +4,7 @@
 
 - For hip, this will be hard, since from hip to ankle there is still knee, so one can't tell whether it is ascending or non-ascending.
 - Using knee joint center is also impossible, since KJC is also affected by the ankle angle.
+- This conclusion should be straight forward since during level walking the thigh/hip angles are also not the same, and we only have thigh/hip information!
 
 - To conclude, this makes using GRF less meaningful, which is good since we want to get rid of GRF (also not passive)
 
