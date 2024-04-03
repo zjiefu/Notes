@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomechanics-inspired Controller/Second thought.md",
+                "file": "Reading notes/@DynamicMovementPrimitives.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomechanics-inspired Controller/Second thought.md",
+                "file": "Reading notes/@DynamicMovementPrimitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomechanics-inspired Controller/Second thought.md",
+                "file": "Reading notes/@DynamicMovementPrimitives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biomechanics-inspired Controller/Second thought.md"
+                "file": "Reading notes/@DynamicMovementPrimitives.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "5431279b42275809",
   "lastOpenFiles": [
-    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Biomechanics-inspired Controller/Second thought.md",
+    "Reading notes/@DynamicMovementPrimitives.md",
+    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Biomechanics-inspired Controller/New hip controller mathematics.md",
     "Biomechanics-inspired Controller/Dataset processing.md",
     "Reading notes/@neumann2010.md",
@@ -200,7 +201,6 @@
     "Reading notes/@alibejiMuscleSynergyInspiredControl2018.md",
     "Reading notes/@morcelliHipMusclesStrength2014.md",
     "Reading notes/@beckReducedProstheticStiffness2017.md",
-    "Reading notes/@aliliUserControlledInterface2021.md",
     "Reading notes"
   ]
 }
