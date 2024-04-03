@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomechanics-inspired Controller/Dataset processing.md",
+                "file": "Biomechanics-inspired Controller/New hip controller overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5431279b42275809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biomechanics-inspired Controller/Second thought.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomechanics-inspired Controller/Dataset processing.md",
+                "file": "Biomechanics-inspired Controller/Second thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomechanics-inspired Controller/Dataset processing.md",
+                "file": "Biomechanics-inspired Controller/Second thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biomechanics-inspired Controller/Dataset processing.md"
+                "file": "Biomechanics-inspired Controller/Second thought.md"
               }
             }
           }
@@ -146,9 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c156cc57ea49ca5",
+  "active": "5431279b42275809",
   "lastOpenFiles": [
     "Biomechanics-inspired Controller/New hip controller overview.md",
+    "Biomechanics-inspired Controller/Second thought.md",
+    "Biomechanics-inspired Controller/New hip controller mathematics.md",
+    "Biomechanics-inspired Controller/Dataset processing.md",
     "Reading notes/@neumann2010.md",
     "Attachments/Pasted image 20240402134157.png",
     "Attachments/Pasted image 20240402134117.png",
@@ -157,7 +173,6 @@
     "Attachments/Pasted image 20240402133929.png",
     "Attachments/Pasted image 20240402133903.png",
     "Biomechanics-inspired Controller/New hip controller biomechanics.md",
-    "Biomechanics-inspired Controller/Dataset processing.md",
     "Random Notes (Should be cleaned regularly).md",
     "Using OpenSim.md",
     "Note taking.md",
@@ -167,7 +182,6 @@
     "Elderly Study/Elderly Study Backup Plan B.md",
     "Elderly Study",
     "Biomechanics-inspired Controller",
-    "Biomechanics-inspired Controller/New hip controller mathematics.md",
     "Elderly Study/Elderly Study Inclusion Criteria.md",
     "Elderly Study/Everything about elderly study.md",
     "Useful Information for Human Subject Studies.md",
