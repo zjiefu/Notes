@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting notes/All-hands meeting presentation.md",
+                "file": "Biomechanics-inspired Controller/New hip controller overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notes/@DynamicMovementPrimitives.md",
+                "file": "Reading notes/@molinaroEstimatingHumanJoint2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting notes/All-hands meeting presentation.md",
+                "file": "Reading notes/@molinaroEstimatingHumanJoint2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting notes/All-hands meeting presentation.md",
+                "file": "Reading notes/@molinaroEstimatingHumanJoint2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting notes/All-hands meeting presentation.md"
+                "file": "Reading notes/@molinaroEstimatingHumanJoint2024.md"
               }
             }
           }
@@ -158,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c156cc57ea49ca5",
+  "active": "5431279b42275809",
   "lastOpenFiles": [
-    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Reading notes/@DynamicMovementPrimitives.md",
+    "Reading notes/@molinaroEstimatingHumanJoint2024.md",
     "Biomechanics-inspired Controller/Second thought.md",
+    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Biomechanics-inspired Controller/New hip controller mathematics.md",
     "Biomechanics-inspired Controller/Dataset processing.md",
     "Reading notes/@neumann2010.md",
@@ -199,7 +201,6 @@
     "Reeves2009.md",
     "Reading notes/@alibejiMuscleSynergyInspiredControl2018.md",
     "Reading notes/@morcelliHipMusclesStrength2014.md",
-    "Reading notes/@beckReducedProstheticStiffness2017.md",
     "Reading notes"
   ]
 }
