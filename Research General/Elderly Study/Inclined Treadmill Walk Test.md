@@ -10,9 +10,9 @@
 - Should not be too fast, but self-selected speed/comfortable speed will be too hard to reach "failure" (e.g., speed drop or RPE change, etc.)
 
 ## What need to done:
-1. Need to find the lower-limb biomechanics of elderly (general) population during incline walking ,especially the relationship between hip and knee. Want to find the "optimal" slope that maximize the benefits of hip. **(Keywords: elderly, incline waking, kinematics, biomechanics, etc.)**
+1. Need to find the lower-limb biomechanics of elderly (general) population during incline walking ,especially the relationship between hip and knee. Want to find the "optimal" slope that maximize the benefits of hip. **(Keywords: elderly, incline waking, kinematics, biomechanics, etc.)** [[Incline walking biomechanics]]
 2. Need to think about the metric (or stop criteria), due to the drawbacks of hip exoskeleton:
 	1. Uncomfortableness
 	2. Heat
-	**(Keywords: hip exoskeleton, hip orthosis, comfortness, **
-3. Need to fine tune the controller such that it works with a wide range of speed and gait style.
+	**(Keywords: hip exoskeleton, hip orthosis, comfortableness, etc.)**
+3. Need to fine tune the controller such that it works with a wide range of speed and gait style. **(Could be hard for a range of speed, could use dynamics gain for assistance, but need to test on more people)** 
