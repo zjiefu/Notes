@@ -20,11 +20,15 @@
             }
           },
           {
-            "id": "5431279b42275809",
+            "id": "ac59277ecb893e2f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Elderly Study/Inclined Treadmill Walk Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller overview.md",
+                "file": "Elderly Study/Inclined Treadmill Walk Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller overview.md",
+                "file": "Elderly Study/Inclined Treadmill Walk Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biomechanics-inspired Controller/New hip controller overview.md"
+                "file": "Elderly Study/Inclined Treadmill Walk Test.md"
               }
             }
           }
@@ -155,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5431279b42275809",
+  "active": "ac59277ecb893e2f",
   "lastOpenFiles": [
+    "Biomechanics-inspired Controller/New hip controller overview.md",
+    "Elderly Study/Inclined Treadmill Walk Test.md",
     "Reading notes/@neumann2010.md",
     "Reading notes/@molinaroEstimatingHumanJoint2024.md",
     "Reading notes/@DynamicMovementPrimitives.md",
     "Biomechanics-inspired Controller/Second thought.md",
-    "Biomechanics-inspired Controller/New hip controller overview.md",
     "Biomechanics-inspired Controller/New hip controller mathematics.md",
     "Biomechanics-inspired Controller/Dataset processing.md",
     "Attachments/Pasted image 20240402134157.png",
@@ -196,7 +201,6 @@
     "Reading notes/@reevesOlderAdultsEmploy2009.md",
     "Reeves2009.md",
     "Reading notes/@alibejiMuscleSynergyInspiredControl2018.md",
-    "Reading notes/@morcelliHipMusclesStrength2014.md",
     "Reading notes"
   ]
 }
