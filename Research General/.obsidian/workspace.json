@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elderly Study/Incline walking biomechanics.md",
+                "file": "Elderly Study/Inclined Treadmill Walk Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elderly Study/Incline walking biomechanics.md",
+                "file": "Elderly Study/Inclined Treadmill Walk Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elderly Study/Incline walking biomechanics.md",
+                "file": "Elderly Study/Inclined Treadmill Walk Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elderly Study/Incline walking biomechanics.md"
+                "file": "Elderly Study/Inclined Treadmill Walk Test.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "ff07ac043a6a49da",
   "lastOpenFiles": [
+    "Elderly Study/Incline walking biomechanics.md",
     "Attachments/Pasted image 20240418183323.png",
     "Attachments/Pasted image 20240418181656.png",
     "Elderly Study/Inclined Treadmill Walk Test.md",
-    "Elderly Study/Incline walking biomechanics.md",
     "Untitled",
     "Biomechanics-inspired Controller/New hip controller overview.md",
     "Reading notes/@neumann2010.md",
@@ -199,7 +199,6 @@
     "Reading notes/@ortegaInterconnectionDampingAssignment2002.md",
     "Reading notes/@gordonHumanintheLoopOptimizationExoskeleton2022.md",
     "Attachments/Pasted image 20240220153915.jpg",
-    "Attachments/Pasted image 20240206164621.png",
     "Attachments",
     "Reading notes/@reevesOlderAdultsEmploy2009.md",
     "Reading notes"
