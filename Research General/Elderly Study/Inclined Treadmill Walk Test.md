@@ -16,3 +16,12 @@
 	2. Heat
 	**(Keywords: hip exoskeleton, hip orthosis, comfortableness, etc.)**
 3. Need to fine tune the controller such that it works with a wide range of speed and gait style. **(Could be hard for a range of speed, could use dynamics gain for assistance, but need to test on more people)** 
+
+
+
+## What we learned from the first three subjects:
+1. Most of them have knee muscle atrophy, which makes specific tasks harder (EL04-STS, EL05-SA)
+2. Theoretically speaking, hip module should be able to help most of these tasks. However, in reality with hip people slows down a little bit.
+3. Not sure what caused this speed decrease, but my assumption is coordination.
+4. Therefore, need to design some tests that do not require much coordination, i.e., more static tests.
+5. The drawbacks of treadmill tasks is that it may not be sensitive enough.
