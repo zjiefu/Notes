@@ -9,4 +9,5 @@
 3. Battery (good): plugged, no email;
 4. Battery (good): turns off when SSH with Vscode
 5. Battery (good): do not turn off when SSH with terminal
-6. Battery (good)
+6. Battery (good): touched the DC-DC converter, disconnected
+7. Might be a DC-DC converter issue?
