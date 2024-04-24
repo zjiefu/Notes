@@ -25,3 +25,12 @@
 3. Not sure what caused this speed decrease, but my assumption is coordination.
 4. Therefore, need to design some tests that do not require much coordination, i.e., more static tests.
 5. The drawbacks of treadmill tasks is that it may not be sensitive enough.
+
+
+## New design: inclined treadmill 6MWT
+
+### Findings from other paper:
+1. Treadmill 6MWT is a reliable test in young people and older people
+2. Results from treadmill 6MWT and over round 6MWT are usually not interchangeable.
+3. Should provide at least one practice, since people usually have better performance in the second test.
+4. Need to check subject encouragement. 

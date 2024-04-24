@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff07ac043a6a49da",
+            "id": "ac59277ecb893e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Elderly Study/Inclined Treadmill Walk Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff07ac043a6a49da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elderly Study/Incline walking biomechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff07ac043a6a49da",
+  "active": "ac59277ecb893e2f",
   "lastOpenFiles": [
     "Elderly Study/Incline walking biomechanics.md",
-    "Elderly Study/Inclined Treadmill Walk Test.md",
     "Attachments/Pasted image 20240418183323.png",
     "Attachments/Pasted image 20240418181656.png",
+    "Elderly Study/Inclined Treadmill Walk Test.md",
     "Untitled",
     "Biomechanics-inspired Controller/New hip controller overview.md",
     "Reading notes/@neumann2010.md",
