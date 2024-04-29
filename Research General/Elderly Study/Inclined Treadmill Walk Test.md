@@ -34,3 +34,7 @@
 2. Results from treadmill 6MWT and over round 6MWT are usually not interchangeable.
 3. Should provide at least one practice, since people usually have better performance in the second test.
 4. Need to check subject encouragement. 
+
+
+### Instructions
+Subjects were instructed to walk along a 30-m taped line on the fl oor with taped markers placed every 3 m. Subjects turned at each end of the course, resulting in an elliptical pattern. The subjects were allowed to stop if needed during the test, but were not allowed to sit. Stride length was calculated prior to the practice trial and was based on each subject’s height. The pedometer was adjusted according to the instructions provided by the manufacturer. Groups of six subjects were scattered along the 30-m course and performed the test at the same time. Subjects were instructed not to run. Subjects were informed that this was an individual test not a competition, and that each person was to do their individual best during the trial. Subjects were randomly told either to “walk as far as you can in 6 minutes” strictly following the ATS recommendations or “walk as fast as you can in 6 minutes” (without running).  14   A researcher acted as a counter and was assigned to each subject to record the number of laps a participant completed. At the end of 6 minutes, subjects were instructed to stop where they were. Both the linear distance and the distance from the pedometer were recorded for each subject. The RPE was also recorded. (See  Table 2  for distance measures.) 
