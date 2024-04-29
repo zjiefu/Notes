@@ -42,6 +42,8 @@ Subjects were instructed to walk along a 30-m taped line on the fl oor with tape
 
 ### Things to be done:
 1. Need to read papers and check the repeatability of test (i.e., how many tests do we need to do)
+	1. Conclusion from [here](https://erj.ersjournals.com/content/erj/38/2/261.full.pdf): 6MWT affected by learning effect, and need to be repeated;
+	2. 
 2. Need to read papers to determine the details of the test, e.g., instructions, rest time between sections
 3. Need to draft a checklist/procedure for the test
 4. Need to verify if the device is robust enough for the test
